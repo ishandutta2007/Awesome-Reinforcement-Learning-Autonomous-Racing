@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -40,6 +40,7 @@ This repository tracks notable **commercial SaaS RL autonomous racing platforms*
   - [⚡ Full AV Stacks & Additional Repos](#-full-av-stacks--additional-repos)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [💖 Support & Community](#-support--community)
 - [📈 Star History](#-star-history)
 
 ---
@@ -134,6 +135,25 @@ We welcome contributions from researchers, autonomous racing developers, and ope
 - 🏎️ **Safety First:** Physical autonomous racing vehicles can reach significant speeds and carry risks. Always operate physical vehicles in designated tracks with remote emergency kill-switches.
 - 💻 **Compute Requirements:** High-fidelity 3D simulators (CARLA, AirSim, BeamNG) require dedicated GPU hardware for real-time RL training.
 - 🔄 **Sim-to-Real Challenge:** Policy models trained exclusively in simulation may exhibit domain gap on physical race tracks. Use domain randomization and noise injection.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring this project! If you find this repository helpful for your research, projects, or learning:
+
+- ⭐ **Star** this repository to show your support and help others discover it!
+- 🍴 **Fork** it to keep your own copy and contribute improvements.
+- 📢 **Share** it with fellow reinforcement learning researchers, robotics engineers, and autonomous racing developers.
+- ☕ **Sponsor / Buy me a coffee:** Consider supporting the ongoing maintenance of this awesome list via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007)!
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20%E2%9D%A4-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors" alt="Sponsor" />
+  </a>
+</div>
 
 ---
 
